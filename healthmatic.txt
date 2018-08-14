@@ -1,0 +1,1574 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+McKesson
+Cerner Corp.
+Dell, Inc.
+Philips Healthcare
+CareFusion
+Cognizant
+Siemens
+Epic Systems Corp.
+GE Healthcare
+Allscripts Healthcare Solutions, Inc.
+Emdeon
+Optum
+CSC
+EMC
+Nuance Communications
+Infosys | Infosys Public Services Inc.
+MedAssets, Inc.
+Leidos, Inc. (Formerly SAIC)
+Wolters Kluwer Health
+Trizetto
+3M Health Information Systems
+athenahealth
+MEDITECH
+Oracle
+IBM
+Alere
+The Advisory Board Company
+Quality Systems, Inc. (NextGen)
+MModal Inc.
+NetApp, Inc.
+Northrop Grumman Corp.
+Greenway Health, LLC
+InterSystems
+SAS
+Infor (Lawson)
+HealthPort Technologies, LLC
+Kronos Incorporated
+eClinicalWorks
+Merge Healthcare
+NTT DATA, Inc.
+Sunquest Information Systems, Inc.
+Harris Corporation
+Premier Inc.
+Experian Health/Passport
+CPSI
+MEDHOST, Inc. (Formerly HealthTech Holdings)
+Anthelio Healthcare Solutions Inc.
+CareTech Solutions
+Netsmart
+Availity
+EHealthLine
+SCC Soft Computer
+Elsevier
+Syntel, Inc.
+Amcom Software, Inc. (subidiary of USA Mobility)
+HealthStream, Inc.
+Nexus Connected Healthcare
+IOD Incorporated
+Perceptive Software
+Wipro Technologies
+CTG
+NEC Corporation fo America
+Vocera Communications, Inc.
+T-System
+Mediware Information Systems
+OnBase by Hyland Software
+Orion Health
+Encore Health Resources
+QuadraMed Corp.
+Perficient, Inc.
+ZirMed, Inc.
+MedeAnalytics, Inc.
+Zynx Health
+Nordic Consulting Partners
+TeleTracking Technologies, Inc.
+Brightree
+Healthland
+Edifecs, Inc.
+Navicure
+SPi Healthcare
+Beacon Partners
+Brocade
+The SSI Group
+Source Medical Solutions, Inc.
+Imprivata
+Capsule Tech, Inc.
+Impact Advisors
+Medseek
+Surgical Information Systems
+CompuGroup Medical, Inc.
+ADP AdvancedMD
+Agilex Technologies, Inc.
+ESD
+Iatric Systems, Inc.
+Cumberland Consulting Group
+Craneware, Inc.
+HealthcareSource
+Edaptive (ECI Healthcare)
+Capario
+Health Data Specialists, LLC
+McKesson Technology Solutions
+CareFusion Corp.
+Siemens Healthcare
+EMC Corp.
+Trizetto Corp.
+Science Applications International Corp. (SAIC)
+Medical Information Technology, Inc. (MEDITECH)
+MModal
+TELUS Health Solutions
+NextGen Healthcare Information Systems, Inc.
+athenahealth, Inc.
+Vitera Healthcare Solutions
+Care Tech Solutions
+HealthTech Holdings, Inc.
+Sutherland Global Services (formerly Apollo Health Street)
+Greenway Medical Technologies, Inc.
+NEC Corporation of America
+T-System, Inc
+Hyland Software
+Orion Corporation Limited
+Passport Health Communication
+Enterasys Networks
+API Healthcare Corp.
+Perficient Inc.
+Experian Healthcare
+Mediware Information Systems, Inc.
+Cegedim (US Subsidiary: Pulse Systems, Inc.)
+Brightree LLC
+MEDSEEK
+Craneware
+Edaptive
+Arcadia Solutions
+Recondo Technology
+Intellect Resources
+Covisint Healthcare
+Vendormate, Inc.
+Dell
+Philips
+Xerox
+Allscripts
+Emdeon, Inc.
+Conifer Health Solutions
+Leidos Health
+Infosys
+Truven Health Analytics
+Quality Systems Inc. (NextGen)
+Omnicell
+NetApp
+InterSystems ♦
+Inovalon
+Infor
+HealthPort
+Verisk Analytics
+Sunquest Information Systems Inc.
+NTT Data
+Spok, Inc. (formerly Amcom Software, Inc.)
+MEDHOST, Inc.
+HealthStream
+Dimension Data (Formerly Nexus Connected)
+Lexmark Healthcare
+Syntel
+Mediware
+Sutherland Healthcare Solutions
+Hyland
+ZirMed
+Aesynt (owned by Francisco Partners)
+Evolent Health
+Perficient, Inc
+Medecision
+CSI Healthcare IT
+QuadraMed Corp. (owned by Harris Corporation)
+Edifecs
+HealthEdge
+The HCI Group
+Document Storage Systems, Inc.
+Burwood Group
+Meridian Medical Management
+SourceMedical (Source Medical Solutions, Inc.)
+Sharecare
+KPMG LLP (formerly Beacon Partners)
+EPAM Systems Inc.
+Caradigm
+Cognizant Technology Solutions
+Epic Systems
+EMC Corporation
+Change Healthcare
+Leidos
+CIOX Health (formerly HealthPort and IOD)
+Roper Technologies, Inc.
+Wolters Kluwer
+Softheon
+Northrop Grumman
+Greenway Health
+Verisk Health, Inc.
+West Corporation
+Premier, Inc.
+Experian Health
+Merge Healthcare (an IBM Company)
+Availity LLC
+Aesynt
+Spok, Inc.
+Dimension Data
+Nordic
+PointClickCare Corp.
+MedeAnalytics
+Burwood Group, Inc
+CitiusTech Inc.
+Medecision, Inc.
+EPAM Systems
+KPMG LLP
+Harris Healthcare
+T-System, Inc.
+Capsule Technologie
+SourceMed (Source Medical Solutions, Inc.)
+Carousel Industries
+Cognizant Technology Solutions Corporation
+Epic
+Dell EMC
+Wipro Limited
+Advisory Board
+Ciox Health
+Omnicell, Inc.
+Cotiviti
+nThrive (formerly MedAssets-Precyse)
+NetApp Inc.
+HMS
+NextGen Healthcare
+Verscend Technologies (formerly Verisk Health)
+R1 RCM
+Anthelio Healthcare Solutions Inc. (acquired by Atos)
+Hyland Software, Inc.
+Nordic Consulting Partners, Inc.
+PointClickCare Technologies Inc.
+MEDHOST
+Sutherland Healthcare
+ZirMed Inc.
+Agfa HealthCare
+Optimum Healthcare IT
+ABILITY Network
+Teladoc, Inc.
+Brightree (a ResMed company )
+Commvault
+LexisNexis Risk Solutions
+SKYGEN USA, LLC
+EPAM
+TeleTracking Technologies
+NantHealth
+Solutionreach
+DSS, Inc.
+SCIOInspire, Corp.
+Impact Advisors LLC
+Document Storage Systems, Inc. (DSS, Inc.)
+LexisNexis Health Care
+Phreesia
+AdvancedMD
+emids Technologies
+Healthedge Software, Inc.
+The SSI Group, LLC
+Healthcare IT Leaders
+Carousel Industries, Inc.
+WebPT
+Welltok
+PointClickCare Technologies
+nThrive
+Harris Healthcare Group
+AGFA HealthCare
+Advantech
+ABILITY Network (acquired by Inovalon April 2018)
+HCTec
+Castlight
+Infosys Ltd.
+SAS Institute
+Verscend Technologies
+Waystar
+Conduent
+Tata Consultancy Services
+Cotiviti Holdings Inc.
+wellster
+well, yes
+wellbeing
+elevate
+elationship
+whole you
+whole u
+vim
+verve
+vigor
+hummingbird
+thrively
+thrival
+swellbee
+swellness
+swellbeing
+nurture
+nurtre
+resiliency
+empathic health
+responsivity
+healthfull
+healthfully
+RFA Health Informatics
+Health Informatics Consultants
+Nimble Health Informatics
+Exceed Health Informatics Consultants
+Idea2Action Health Informatics
+Fine Focus Health Informatics
+Redox
+Flatiron Health
+Apixio
+ePatient Finder
+HealthVerity
+SPH Analytics
+VIgiLanz
+QLIK
+Informatica
+SalesForce.com
+Jvion
+KPMG
+Stoltenberg Consulting
+Oxford Healthcare
+Quammen
+PokitDok
+ExtraHop
+Fortinet
+FireEye
+Cylance
+Dimensional Insight
+StrataDecision
+PatientKeeper
+VitalWare
+Lexmar
+Talix
+M*Modal
+CareStream
+Taylor Healthcare
+NetSmart
+Qvera
+Corepoint
+ELLKAY
+PatientSafe
+CDW
+QualComm Life
+InTouch Health
+Teladoc
+OnPage
+Modernizing Medicine
+CareCloud
+Enli
+ZeOmega
+Virtual Health
+Geneia
+NaviHealth
+HealthLoop
+OneView
+InstaMed
+CoverMyMeds
+ATOS
+UnitedHealth Group
+CVS Health
+Express Scripts
+Anthem
+Johnson & Johnson
+Aetna
+Humana
+Pfizer
+Centene
+HCA Healthcare
+Cigna
+Merck
+AbbVie
+Abbott Laboratories
+Gilead Sciences
+Eli Lilly
+Amgen
+Bristol-Myers Squibb
+Tenet Healthcare
+Molina Healthcare
+Community Health Systems
+Danaher
+WellCare Health Plans
+DaVita
+Envision Healthcare
+Celgene
+Stryker
+Biogen
+Becton Dickson
+Universal Health Services
+Baxter International
+Laboratory Corp. of America
+IQVIA
+Boston Scientific
+Zimmer Biomet
+Quest Diagnostics
+LifePoint Health
+Kindred Healthcare
+Regeneron Pharmaceuticals
+Magellan Health
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
